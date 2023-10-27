@@ -11,7 +11,7 @@ provider "newrelic" {
   # Configuration options
   api_key="NRAK-S0D6RKUBGBH7CJ6TAT6ALATUCSJ"
   account_id=4043696
-}
+ }
 
 
  

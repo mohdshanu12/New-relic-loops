@@ -4,3 +4,6 @@ variable "foo_policy" {
    //default = "fooPolicy1"
  
 }
+# variable "account_id"{
+#     type = number
+# }
